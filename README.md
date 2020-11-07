@@ -2,9 +2,7 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
-
-[picture of the solution in action, if possible]
+Qiita 投稿用のサンプルです。このコードのご利用について、作成者や所属する組織は一切の責任を負いません。
 
 ## Used SharePoint Framework Version
 
